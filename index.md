@@ -24,6 +24,7 @@ Below are some select projects
 
 ### MSc thesis at Imperial College London
 *Robust low-rank modelling on tensors: new algorithms and extensive comparisons*
+
 Supervisor: [Dr Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)
 
 * [Thesis in PDF](https://github.com/mbahri/msc_thesis/raw/master/MSc_Thesis_final.pdf)
