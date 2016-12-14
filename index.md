@@ -17,6 +17,7 @@ Besides what I do at work, I am interested in a variety of topics in Machine Lea
 * Social network analysis, more precisely influence propagation
 
 My preferred applications are in data science, computer vision, and medical research.
+
 ## Projects
 
 Below are some select projects
