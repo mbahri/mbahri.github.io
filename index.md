@@ -30,6 +30,7 @@ Below are some select projects
 
 ### Robust non-negative dictionary learning
 A MATLAB implementation of the algorithm from
+
 > Robust Non-Negative Dictionary Learning Qihe Pan, Deguang Kong, Chris Ding and Bin Luo In Proceedings of the 28th conference of the AAAI - 2014
 
 that I wrote for the paper I have submitted to CVPR 2017.
