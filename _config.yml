@@ -1,0 +1,10 @@
+# Site settings
+title: Mehdi Bahri
+tag_text: Mehdi Bahri
+description: Data Scientist, Machine Learning enthusiast/researcher
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
