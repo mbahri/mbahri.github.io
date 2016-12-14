@@ -54,7 +54,7 @@ The purpose of this coursework was to experiment with Restricted Boltzman Machin
 TODO -->
 
 ## Publications
-* One *anonymous submission* to [CVPR 2017]() with S. Zafeiriou and Y. Panagakis
+* One *anonymous submission* to [CVPR 2017](http://cvpr2017.thecvf.com) with S. Zafeiriou and Y. Panagakis
 * Work in progress for a journal version (PAMI, JMLR...)
 
 
