@@ -24,6 +24,7 @@ Below are some select projects
 
 ### MSc thesis at Imperial College London
 *Robust low-rank modelling on tensors: new algorithms and extensive comparisons*
+Supervisor: [Dr Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)
 
 * [Thesis in PDF](https://github.com/mbahri/msc_thesis/raw/master/MSc_Thesis_final.pdf)
 
@@ -39,7 +40,7 @@ that I wrote for the paper I have submitted to CVPR 2017.
 * [Code](https://github.com/mbahri/rnndl)
 
 ### A data science competition
-I took part in the PumpItUp competition hosted by DrivenData in May 2016 as part of the recruitment process of a London startup. With ~two days of quick hacking at the time I am currently in the top 7%.
+I took part in the [Pump it Up](https://www.drivendata.org/competitions/7/) competition hosted by DrivenData in May 2016 as part of the recruitment process of a London startup. With about two days of quick hacking at the time, I am currently in the top 7%.
 
 * [Code (R)](https://github.com/mbahri/pumpitup)
 
