@@ -28,6 +28,7 @@ Below are some select projects
 Supervisor: [Dr Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)
 
 * [Thesis in PDF](https://github.com/mbahri/msc_thesis/raw/master/MSc_Thesis_final.pdf)
+* [Slides](https://github.com/mbahri/msc_thesis/raw/master/Slides_thesis.pdf)
 
 **Awarded the Winton Capital Computing MSc Project Prize** (best MSc thesis in Computer Science)
 
