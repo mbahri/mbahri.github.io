@@ -10,7 +10,7 @@ See my [Curriculum Vitae](./CV.pdf).
 
 Besides what I do at work, I am interested in a variety of topics in Machine Learning, notably in statistical learning and optimisation.
 
-* Non-euclidean geometry in Machine Learning (manifold learning, riemannian optimisation)
+* Non-euclidean geometry in Machine Learning (manifold learning, Riemannian optimisation)
 * Approximate inference in probabilistic graphical models
 * Representation learning and component analysis
 * Tensor methods, sparse coding, compressed sensing (see my MSc thesis)
@@ -30,7 +30,7 @@ Supervisor: [Dr Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)
 * [Thesis in PDF](https://github.com/mbahri/msc_thesis/raw/master/MSc_Thesis_final.pdf)
 * [Slides](https://github.com/mbahri/msc_thesis/raw/master/Slides_thesis.pdf)
 
-**Awarded the Winton Capital Computing MSc Project Prize** (best MSc thesis in Computer Science)
+**Awarded the Winton Capital Computing MSc Project Prize** (best MSc thesis in Computer Science, 1/188)
 
 ### Robust non-negative dictionary learning
 A MATLAB implementation of the algorithm from
