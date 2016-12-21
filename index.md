@@ -62,7 +62,7 @@ TODO -->
 
 ## Author
 
-Mehdi Bahri ([GitHub](http://github.com/mbahri)).
+Mehdi Bahri ([GitHub](http://github.com/mbahri)/[LinkedIn](https://uk.linkedin.com/in/mehdibahri/en)/[Quora](https://www.quora.com/profile/Mehdi-Bahri)).
 
 Contact: mehdi [dot] b [dot] tn [at] gmail [dot] com
 
