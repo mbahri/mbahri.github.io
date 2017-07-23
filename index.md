@@ -67,8 +67,8 @@ The purpose of this coursework was to experiment with Restricted Boltzman Machin
 TODO -->
 
 ## Publications
-* One *anonymous submission* to [CVPR 2017](http://cvpr2017.thecvf.com) with S. Zafeiriou and Y. Panagakis
-* Work in progress for a journal version (PAMI, JMLR...)
+* **M. Bahri**, Y. Panagakis, and S. Zafeiriou, "Robust Kronecker-Decomposable Component Analysis for Low Rank Modeling" International Conference on Computer Vision (ICCV) 2017, *accepted for publication*, Jul. 2017
+* N. Xue, G. Papamakarios, **M. Bahri**, Y. Panagakis, and S. Zafeiriou, "Robust Low-rank Tensor Modelling Using Tucker and CP Decomposition" in European Signal Processing Conference (EUSIPCO) 2017, special session on Component Analysis for Computer Vision, *accepted for publication*, 2017
 
 ## Author
 
