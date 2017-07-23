@@ -2,9 +2,10 @@
 layout: default
 ---
 
-I am a Data Scientist at [HarperCollins Publishers](https://www.harpercollins.co.uk) in London where I do research and development. I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble).
+<!-- I am a Data Scientist at [HarperCollins Publishers](https://www.harpercollins.co.uk) in London where I do research and development. I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble). -->
+I am a Data Scientist and Machine Learning engineer. I am currently finishing a research internship at [Speechmatics (Cantab Research Ltd.)](https://www.speechmatics.com) where I am working on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at [HarperCollins Publishers](https://www.harpercollins.co.uk) in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble).
 
-See my [Curriculum Vitae](./CV.pdf).
+See my [Curriculum Vitae](./Bahri_CV.pdf) or my short [Resume](./Bahri_resume.pdf).
 
 ## Current research interests
 
@@ -18,6 +19,12 @@ Besides what I do at work, I am interested in a variety of topics in Machine Lea
 
 My preferred applications are in data science, computer vision, and medical research.
 
+## News
+
+* July 2017: I have been selected as a semi-finalist for the Data Science fellowship by [The Data Incubator](https://www.thedataincubator.com).
+* July 2017: My paper "Robust Kronecker-Decomposable Component Analysis for Low-Rank Modeling" has been accepted at [ICCV 2017](http://iccv2017.thecvf.com)!
+<!-- * March 2017: Our paper "Robust Low-rank Tensor Modelling Using Tucker and CP Decomposition" has been accepted at EUSIPCO 2017! -->
+
 ## Projects
 
 Below are some select projects
@@ -30,6 +37,9 @@ Supervisor: [Dr Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)
 * [Thesis in PDF](https://github.com/mbahri/msc_thesis/raw/master/MSc_Thesis_final.pdf)
 * [Slides](https://github.com/mbahri/msc_thesis/raw/master/Slides_thesis.pdf)
 
+[ICCV paper (arxiv preprint)](https://arxiv.org/abs/1703.07886) camera-ready version in preparation.
+One paper co-authored for EUSIPCO 2017.
+
 **Awarded the Winton Capital Computing MSc Project Prize** (best MSc thesis in Computer Science, 1/188 students)
 
 ### Robust non-negative dictionary learning
@@ -37,7 +47,7 @@ A MATLAB implementation of the algorithm from
 
 > Robust Non-Negative Dictionary Learning Qihe Pan, Deguang Kong, Chris Ding and Bin Luo In Proceedings of the 28th conference of the AAAI - 2014
 
-that I wrote for the paper I have submitted to CVPR 2017.
+that I wrote for the paper I have submitted to ICCV 2017.
 
 * [Code](https://github.com/mbahri/rnndl)
 
