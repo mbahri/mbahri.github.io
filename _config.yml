@@ -1,10 +1,59 @@
-# Site settings
-title: Mehdi Bahri
-tag_text: Mehdi Bahri
-description: Data Scientist, Machine Learning enthusiast/researcher
+
+# SEO settings
+title: "Mehdi "
+title2: "Bahri" # default: ""
+description: "Data Scientist and Machine Learning engineer/researcher."
+keywords: "Mehdi, Bahri, data, science, machine, learning, statistics, optimisation, optimization, KDRSDL, ICCV"
+url: http://bahri.io/ # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+# google_analytics: UA-XXXXX-XX
+# repo: http://github.com/heiswayi/thinkspace
+# disqus_shortname: "hnbloggithub"
+# twitter_username: "HeiswayiNrird"
+# comments: true
 
 # Build settings
-markdown: kramdown
-exclude: ["README.md"]
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
 sass:
-  style: compressed
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Mehdi Bahri"
+  job      : "Machine Learning Engineer and Data Scientist"
+  bio      : "I am currently finishing a research internship at <a href=\"https://www.speechmatics.com\">Speechmatics (Cantab Research Ltd.)</a> where I am working on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at <a href=\"https://www.harpercollins.co.uk\">HarperCollins Publishers</a> in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a <em>Diplôme d'Ingénieur</em> in Applied Mathematics and CS from Ensimag (Grenoble)."
+  thumb    : /images/author.jpg
+  email    : mehdi.b.tn@gmail.com
+  url      : http://bahri.io
+  github   : http://github.com/mbahri
+  # twitter  : http://twitter.com/HeiswayiNrird
+  # facebook : https://www.facebook.com/heiswayi.nrird
+  # linkedin : http://linkedin.com/in/nrird
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@HeiswayiNrird"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
