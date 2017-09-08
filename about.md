@@ -6,7 +6,9 @@ permalink: /about/
 
 ![The author in Vienna](../assets/images/me.jpg)
 
-I am a Data Scientist and Machine Learning engineer. I am currently finishing a research internship at [Speechmatics (Cantab Research Ltd.)](https://www.speechmatics.com) where I am working on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at [HarperCollins Publishers](https://www.harpercollins.co.uk) in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble).
+<!-- I am a Machine Learning researcher in training and will be starting my PhD in Statistical Machine Learning at Imperial College London in October. Previously, I was a research intern at [Speechmatics (Cantab Research Ltd.)](https://www.speechmatics.com) where I worked on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at [HarperCollins Publishers](https://www.harpercollins.co.uk) in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble). -->
+
+{{ site.author.bio }}
 
 See my [Curriculum Vitae](http://bahri.io/Bahri_CV.pdf) or my short [Resume](http://bahri.io/Bahri_resume.pdf).
 
