@@ -8,6 +8,8 @@ Peer-reviewed publications with links to code and other material when available.
 
 ### Robust Kronecker-Decomposable Component Analysis for Low-Rank Modeling
 
+![KDRSDL figure from paper](../assets/images/projects/kdrsdl.svg)
+
 **M. Bahri**, Y. Panagakis, and S. Zafeiriou, in International Conference on Computer Vision (ICCV) 2017, *accepted for publication*, Jul. 2017
 
 Code - arxiv - supplementary material - BibTex
