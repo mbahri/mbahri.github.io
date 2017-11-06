@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "Mehdi Bahri"
-  job      : "Machine Learning Engineer and Data Scientist"
+  job      : "PhD Student in Machine Learning and Computer Vision"
   bio      : "I am a PhD researcher in Statistical Machine Learning at <a href=\"http://www.imperial.ac.uk\">Imperial College London</a> with <a href=\"https://wp.doc.ic.ac.uk/szafeiri/\">Dr Stefanos Zafeiriou</a> working on Geometric and Bayesian Deep Learning with applications to Computer Vision. Previously, I was a research intern at <a href=\"https://www.speechmatics.com\">Speechmatics (Cantab Research Ltd.)</a> where I worked on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at <a href=\"https://www.harpercollins.co.uk\">HarperCollins Publishers</a> in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a <em>Diplôme d'Ingénieur</em> in Applied Mathematics and CS from Ensimag (Grenoble)."
   thumb    : /images/author.jpg
   email    : mehdi.b.tn@gmail.com
