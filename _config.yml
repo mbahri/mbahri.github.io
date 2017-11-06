@@ -31,7 +31,7 @@ sass:
 author:
   name     : "Mehdi Bahri"
   job      : "Machine Learning Engineer and Data Scientist"
-  bio      : "I am a Machine Learning researcher in training and will be starting my PhD in Statistical Machine Learning at <a href=\"http://www.imperial.ac.uk\">Imperial College London</a> in October 2017. Previously, I was a research intern at <a href=\"https://www.speechmatics.com\">Speechmatics (Cantab Research Ltd.)</a> where I worked on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at <a href=\"https://www.harpercollins.co.uk\">HarperCollins Publishers</a> in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble)."
+  bio      : "I am a PhD researcher in Statistical Machine Learning at <a href=\"http://www.imperial.ac.uk\">Imperial College London</a> with <a href=\"https://wp.doc.ic.ac.uk/szafeiri/\">Dr Stefanos Zafeiriou</a> working on Geometric and Bayesian Deep Learning with applications to Computer Vision. Previously, I was a research intern at <a href=\"https://www.speechmatics.com\">Speechmatics (Cantab Research Ltd.)</a> where I worked on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at <a href=\"https://www.harpercollins.co.uk\">HarperCollins Publishers</a> in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a <em>Diplôme d'Ingénieur</em> in Applied Mathematics and CS from Ensimag (Grenoble)."
   thumb    : /images/author.jpg
   email    : mehdi.b.tn@gmail.com
   url      : http://bahri.io

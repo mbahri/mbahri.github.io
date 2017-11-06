@@ -10,7 +10,7 @@ permalink: /about/
 
 {{ site.author.bio }}
 
-See my [Curriculum Vitae](http://bahri.io/Bahri_CV.pdf) or my short [Resume](http://bahri.io/Bahri_resume.pdf).
+See my [Curriculum Vitae](http://bahri.io/PDF/Bahri_CV.pdf) or my short [Resume](http://bahri.io/PDF/Bahri_resume.pdf).
 
 ## Current research interests
 

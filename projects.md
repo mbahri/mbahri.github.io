@@ -13,7 +13,7 @@ Supervisor: [Dr Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)
 
 * [Thesis in PDF](https://github.com/mbahri/msc_thesis/raw/master/MSc_Thesis_final.pdf)
 * [Slides](https://github.com/mbahri/msc_thesis/raw/master/Slides_thesis.pdf)
-* [ICCV paper (arxiv preprint)](https://arxiv.org/abs/1703.07886) camera-ready version in preparation.
+* ICCV paper [arxiv preprint](https://arxiv.org/abs/1703.07886) and [proceedings](http://openaccess.thecvf.com/content_iccv_2017/html/Bahri_Robust_Kronecker-Decomposable_Component_ICCV_2017_paper.html)
 One paper co-authored for EUSIPCO 2017.
 
 **Awarded the Winton Capital Computing MSc Project Prize** (best MSc thesis in Computer Science, 1/188 students)
