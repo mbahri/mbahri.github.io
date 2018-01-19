@@ -6,6 +6,12 @@ permalink: /publications/
 
 Peer-reviewed publications with links to code and other material when available.
 
+### Robust Kronecker Component Analysis
+
+** M. Bahri**, Y. Panagakis, and S. Zafeiriou, *in review* for IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), Special Issue on Compact and Efficient Feature Representation and Learning in Computer Vision.
+
+arXiv (to be announced)
+
 ### Robust Kronecker-Decomposable Component Analysis for Low-Rank Modeling
 
 ![KDRSDL figure from paper](../assets/images/projects/kdrsdl.svg)
