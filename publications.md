@@ -10,7 +10,7 @@ Peer-reviewed publications with links to code and other material when available.
 
 **M. Bahri**, Y. Panagakis, and S. Zafeiriou, *in review* for IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), Special Issue on Compact and Efficient Feature Representation and Learning in Computer Vision.
 
-arXiv (to be announced)
+[arXiv](https://arxiv.org/abs/1801.06432)
 
 ### Robust Kronecker-Decomposable Component Analysis for Low-Rank Modeling
 
