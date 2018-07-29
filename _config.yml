@@ -2,8 +2,8 @@
 # SEO settings
 title: "Mehdi "
 title2: "Bahri" # default: ""
-description: "Data Scientist and Machine Learning engineer/researcher."
-keywords: "Mehdi, Bahri, data, science, machine, learning, statistics, optimisation, optimization, KDRSDL, ICCV"
+description: PhD Candidate in Geometric Deep Learning."
+keywords: "Mehdi, Bahri, data, science, machine, learning, statistics, optimisation, optimization, KDRSDL, ICCV, geometric, deep, graph, manifold"
 url: http://bahri.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -30,8 +30,8 @@ sass:
 # Author settings
 author:
   name     : "Mehdi Bahri"
-  job      : "PhD Student in Machine Learning"
-  bio      : "I am a PhD researcher in Statistical Machine Learning at <a href=\"http://www.imperial.ac.uk\">Imperial College London</a> with <a href=\"https://wp.doc.ic.ac.uk/szafeiri/\">Dr Stefanos Zafeiriou</a> working on Geometric and Bayesian Deep Learning with applications to Computer Vision. Previously, I was a research intern at <a href=\"https://www.speechmatics.com\">Speechmatics (Cantab Research Ltd.)</a> where I worked on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at <a href=\"https://www.harpercollins.co.uk\">HarperCollins Publishers</a> in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a <em>Diplôme d'Ingénieur</em> in Applied Mathematics and CS from Ensimag (Grenoble)."
+  job      : "PhD Candidate in Machine Learning"
+  bio      : "I am a PhD Candidate in Machine Learning at <a href=\"http://www.imperial.ac.uk\">Imperial College London</a> with <a href=\"https://wp.doc.ic.ac.uk/szafeiri/\">Dr Stefanos Zafeiriou</a> working on Geometric and Bayesian Deep Learning with applications to Computer Vision. I am currently interning in Quantitative Research (Systematic Trading) at <a href=\"https://www.jpmorgan.com/\">JPMorgan Chase & Co</a> in London for the summer 2018. Previously, I was a research intern at <a href=\"https://www.speechmatics.com\">Speechmatics (Cantab Research Ltd.)</a> where I worked on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at <a href=\"https://www.harpercollins.co.uk\">HarperCollins Publishers</a> in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a <em>Diplôme d'Ingénieur</em> in Applied Mathematics and CS from Ensimag (Grenoble)."
   thumb    : /images/author.jpg
   email    : mehdi.b.tn@gmail.com
   url      : http://bahri.io
