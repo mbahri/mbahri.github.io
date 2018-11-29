@@ -8,7 +8,7 @@ Peer-reviewed publications with links to code and other material when available.
 
 ### Robust Kronecker Component Analysis
 
-**M. Bahri**, Y. Panagakis, and S. Zafeiriou, *in review* for IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), Special Issue on Compact and Efficient Feature Representation and Learning in Computer Vision.
+**M. Bahri**, Y. Panagakis, and S. Zafeiriou, *accepted for publication* in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), Special Issue on Compact and Efficient Feature Representation and Learning in Computer Vision.
 
 [arXiv](https://arxiv.org/abs/1801.06432)
 
