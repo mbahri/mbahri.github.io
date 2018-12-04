@@ -2,7 +2,7 @@
 layout: post
 title: "Paper submitted to PAMI"
 comments: true
-description: "Extension of our ICCV 2017 paper submitted for a special issue of IEEE TPAMI"
+description: "Extension of our ICCV 2017 paper submitted for a special issue of IEEE TPAMI."
 keywords: "rkca, kdrsdl, master, thesis, paper, publication, iccv, tpami"
 ---
 
