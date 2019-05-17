@@ -8,9 +8,19 @@ permalink: /about/
 
 <!-- I am a Machine Learning researcher in training and will be starting my PhD in Statistical Machine Learning at Imperial College London in October. Previously, I was a research intern at [Speechmatics (Cantab Research Ltd.)](https://www.speechmatics.com) where I worked on improving the company's recurrent neural network language models. Prior to this, I was a Data Scientist at [HarperCollins Publishers](https://www.harpercollins.co.uk) in London. I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble). -->
 
-{{ site.author.bio }}
+<!-- {{ site.author.bio }} -->
 
-See my [Curriculum Vitae](http://bahri.io/PDF/Bahri_CV.pdf).<!-- or my short [Resume](http://bahri.io/PDF/Bahri_resume.pdf). -->
+I am a PhD Candidate in Computer Science at [Imperial College London]("http://www.imperial.ac.uk) with [Dr Stefanos Zafeiriou]("https://wp.doc.ic.ac.uk/szafeiri/") and [Prof. Michael Bronstein]("https://www.imperial.ac.uk/people/m.bronstein") working on Geometric Deep Learning, with applications to Computer Vision and network analysis.
+
+I have recently been a Research Intern at [Google AI]("https://ai.google/") in Machine Intelligence/Machine Perception for Fall 2018 in New York City. Previously, I interned in Quantitative Research (Systematic Trading) at [JPMorgan Chase & Co]("https://www.jpmorgan.com/") in London for the Summer 2018.
+
+I graduated with an MSc in Advanced Computing from Imperial College London, and a *Diplôme d'Ingénieur* in Applied Mathematics and CS from Ensimag (Grenoble), both with Distinction.
+
+I received a prestigious Qualcomm Innovation Fellowship in 2019.
+
+
+See my [Curriculum Vitae](http://bahri.io/PDF/Bahri_CV.pdf).
+<!-- or my short [Resume](http://bahri.io/PDF/Bahri_resume.pdf). -->
 
 ## Current research interests
 
