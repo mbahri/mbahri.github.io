@@ -8,4 +8,4 @@ keywords: "graph, convolution, resnet, skip connections, geometry, geometric, de
 
 Our paper "Geometrically Principled Connections in Graph Neural Networks" co-first-authored with Shunwang Gong has been accepted at CVPR 2020!
 
-Preprint to come soon.
+[Arxiv pre-print](https://arxiv.org/abs/2004.02658)
