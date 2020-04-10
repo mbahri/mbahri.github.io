@@ -9,7 +9,7 @@ Peer-reviewed publications with links to code and other material when available.
 ### Geometrically Principled Connections in Graph Neural Networks
 S. Gong+, **M. Bahri+**, M. M. Bronstein, S. Zafeiriou, *accepted for publication* in IEEE CVPR 2020.
 
- + denotes joint first-authorship.
+\+ denotes joint first-authorship.
 [arXiv](https://arxiv.org/abs/2004.02658)
 
 ### Robust Kronecker Component Analysis
