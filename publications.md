@@ -7,7 +7,7 @@ permalink: /publications/
 Peer-reviewed publications with links to code and other material when available.
 
 ### Binary Graph Neural Networks
-M. Bahri, G. Bahl, and S. Zafeiriou, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021
+**M. Bahri**, G. Bahl, and S. Zafeiriou, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021
 
 [arXiv](https://arxiv.org/abs/2012.15823)
 
