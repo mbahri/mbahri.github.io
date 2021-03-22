@@ -10,7 +10,7 @@ permalink: /about/
 
 <!-- {{ site.author.bio }} -->
 
-I am a PhD Candidate in Computer Science at [Imperial College London]("http://www.imperial.ac.uk) with [Dr Stefanos Zafeiriou]("https://wp.doc.ic.ac.uk/szafeiri/") and [Prof. Michael Bronstein]("https://www.imperial.ac.uk/people/m.bronstein") working on Geometric Deep Learning, with applications to Computer Vision and network analysis.
+I am a PhD Candidate in Computer Science at [Imperial College London]("http://www.imperial.ac.uk) with [Prof Stefanos Zafeiriou]("https://wp.doc.ic.ac.uk/szafeiri/") and [Prof. Michael Bronstein]("https://www.imperial.ac.uk/people/m.bronstein") working on Geometric Deep Learning, with applications to Computer Vision and network analysis.
 
 Recently, I was a Research Intern at [Google AI]("https://ai.google/") in Machine Intelligence/Machine Perception for Fall 2018 in New York City. Previously, I interned in Quantitative Research (Systematic Trading) at [JPMorgan Chase & Co]("https://www.jpmorgan.com/") in London for the Summer 2018.
 
